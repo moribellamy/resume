@@ -4,9 +4,10 @@ node_js:
   - "9.5.0"
 
 before_install:
-- npm install -g hackmyresume
+- npm install -g hackmyresume jsonresume-theme-elegant
 
 install:
   - npm install
+
 script:
   - npm test
