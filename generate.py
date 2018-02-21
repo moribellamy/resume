@@ -8,7 +8,7 @@ def main():
     output = 'resume.html' if len(sys.argv) == 1 else sys.argv[1]
 
     subprocess.check_call([
-       'node_modules/hackmyresume/dist/cli/index.js',
+        'node_modules/hackmyresume/dist/cli/index.js',
         'BUILD',
         'resume.json',
         'TO',
