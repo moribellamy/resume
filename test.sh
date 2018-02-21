@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-./generate.sh resume-test.html
+./generate.py resume-test.html
 if [[ $? -ne 0 ]]; then
     echo "Could not run generation script."
     exit 1
