@@ -2,6 +2,8 @@ language: node_js
 sudo: false
 node_js:
   - "9.5.0"
+python:
+  - "3.6"
 
 before_install:
 - npm install -g hackmyresume jsonresume-theme-elegant
