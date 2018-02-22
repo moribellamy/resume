@@ -37,8 +37,7 @@
       "website": "https://irom.me/",
       "startDate": "2017-12-01",
       "highlights": [
-        "Full stack development/architecture/devops with [HireNimble](https://www.hirenimble.com/)",
-        "References upon request."
+        "Full stack development/architecture/devops with [HireNimble](https://www.hirenimble.com/)"
       ]
     },
     {
@@ -95,7 +94,6 @@
   "skills": [
     {
       "name": "Application Development (Skilled)",
-      "level": "Skilled",
       "keywords": [
         "Java",
         "Python",
@@ -108,7 +106,6 @@
     },
     {
       "name": "Application Development (Proficient)",
-      "level": "Proficient",
       "keywords": [
         "Javascript",
         "React",
@@ -123,18 +120,25 @@
     },
     {
       "name": "DevOps (Proficient)",
-      "level": "Proficient",
       "keywords": ["Terraform", "AWS", "Packer", "Kubernetes", "Heroku"]
+    },
+    {
+      "name": "Misc Experience (Knowledgeable)",
+      "keywords": [
+        "Logs",
+        "Metrics",
+        "Big Data",
+        "Load Testing",
+        "E2E testing",
+        "Web Development",
+        "Containerization",
+        "Monitoring"
+      ]
     }
   ],
   "languages": [
     {
-      "language": "English (Native)",
-      "fluency": "Native"
-    },
-    {
-      "language": "Japanese (Novice/Hobby)",
-      "fluency": "Novice/Hobby"
+      "language": "English (Native)"
     }
   ]
 }

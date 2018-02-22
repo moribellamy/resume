@@ -4,7 +4,8 @@
   "description": "Mori Bellamy's resume",
   "dependencies": {
     "hackmyresume": "^1.9.0",
-    "jsonresume-theme-elegant": "^1.11.2"
+    "jsonresume-theme-elegant": "^1.11.2",
+    "jsonresume-theme-onepage": "0.0.3"
   },
   "devDependencies": {
     "husky": "^0.14.3",
