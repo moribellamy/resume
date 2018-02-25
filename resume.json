@@ -32,12 +32,13 @@
   },
   "work": [
     {
-      "company": "Personal Projects and Consulting",
+      "company": "Contract Work",
       "position": "Consultant",
       "website": "https://irom.me/",
       "startDate": "2017-12-01",
       "highlights": [
-        "Full stack development/architecture/devops with [HireNimble](https://www.hirenimble.com/)"
+        "Continuous Delivery with [Temple Gates Games](http://www.templegatesgames.com/)",
+        "Full stack development and architecture with [HireNimble](https://www.hirenimble.com/)"
       ]
     },
     {
